@@ -122,4 +122,4 @@ function removerLivros() {
      )}
 }
 
-console.log('Obrigada por ter cadastrado seu livro, até a proxima')
+console.log('Obrigada por ter cadastrado seu livro, até a proxima!')
